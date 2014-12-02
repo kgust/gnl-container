@@ -1,4 +1,3 @@
-# GoNorth! Leads
 FROM debian:jessie
 MAINTAINER Kevin Gustavson <kgustavson@straightnorth.com>
 

@@ -1,4 +1,4 @@
-gnl
-===
+gnl-container
+=============
 
-GNL
+Docker container for GNL
